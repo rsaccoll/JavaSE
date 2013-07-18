@@ -9,6 +9,7 @@ public class CustomerDriver
 		Customer customer;
 		customer = new Customer();
 		customer.setBalance(12506.45f);
+		//customer.balance = new BigDecimal(12506.45f);
 		System.out.println(customer.toString());
 	}
 }
