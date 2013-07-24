@@ -1,7 +1,5 @@
 package com.stuff.java.examples;
 
-i
-
 public class Soma 
 {
 	//Soma todos os valores de um arranjo de inteiros

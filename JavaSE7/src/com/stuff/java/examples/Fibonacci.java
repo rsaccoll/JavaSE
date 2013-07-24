@@ -7,6 +7,10 @@ public class Fibonacci extends ProgG
 	
 	//Herda primeiro e atual
 	
+	Fibonacci()
+	{
+		this(0,1);
+	}
 	/*
 	 * Construtor, fornece o primeiro e o segundo valor
 	 * 

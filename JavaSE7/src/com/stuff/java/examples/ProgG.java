@@ -45,7 +45,7 @@ public class ProgG
 		System.out.println(primeiroValor());
 		for(int i = 2; i <=n; i++)
 		{
-			System.out.println(""+proximoValor());
+			System.out.print(" "+proximoValor());
 			System.out.println();
 		}
 	}
